@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jayaus23
+- 👀 I’m interested in data, web applications and gaming.
+- 🌱 I’m currently learning Python, JavaScrit, HTML and CSS.
+- 💞️ I’m looking to collaborate on anything.
